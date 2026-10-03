@@ -42,8 +42,9 @@ python3 shcrypt-DoS.py
 
 
 
-MIT License. See the LICENSE file for details.
 
 ## Disclaimer
 
-SHCRYPT DOS is an educational project built for demonstration and retro-computing nostalgia. It is not a real cryptographic tool. For actual cryptography, use audited tools such as age, GnuPG, or openssl.
+By using this software, you accept full responsibility for your own actions.
+
+The author is not responsible for any damage, data loss, service interruption, system instability, or other issues that may result from the use or misuse of this software.
