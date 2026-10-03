@@ -10,16 +10,14 @@
     sudo apt install python3 python3-pip git -y
     git clone https://github.com/shcrypta27/Shcrypt-DoS-tool-python.git
     cd shcryptdos
-    pip3 install -r requirements.txt
-    chmod +x shcrypt.py
-
+    python3 shcrypt-DoS.py
+    
 ### Linux (Fedora)
 
     sudo dnf install python3 python3-pip git -y
     git clone https://github.com/shcrypta27/Shcrypt-DoS-tool-python.git
     cd shcryptdos
-    pip3 install -r requirements.txt
-    chmod +x shcrypt.py
+    python3 shcrypt-DoS.py
 
 ### Linux (Arch)
 
